@@ -1,2 +1,2 @@
-# MSP430DinoGame
-A clone of the google chrome dino game, using an msp430, a pushbutton, and a 16x2 charachter display.
+# Conway's GOL on Microcontroller & Charachter Display
+Conway's Game of Life simulated on a microcontroller and displayed on a 16x2 charchter display.
